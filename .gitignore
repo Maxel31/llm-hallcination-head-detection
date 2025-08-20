@@ -215,3 +215,10 @@ tests/
 
 # docs
 docs/
+
+# .ipynb 
+*.ipynb
+
+# dataset
+dataset/
+
